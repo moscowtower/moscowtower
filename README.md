@@ -20,8 +20,8 @@
 
 ### :hammer_and_wrench: Frameworks, Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=bots,discord&perline=2)](https://skillicons.dev)
-<img style="margin: 0 0 0 5px" height="48" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png">
-<img style="margin: 0 0 0 5px" height="48" src="https://user-images.githubusercontent.com/5018167/212202171-d66febd2-4ed8-4342-b2a5-59a2930833cb.png"><img style="margin: 0 0 0 5px" height="48" src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Ethereum-ETH-icon.png"/>
+<img style="margin: 0 0 0 10px" height="48" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png">
+<img style="margin: 0 0 0 10px" height="48" src="https://user-images.githubusercontent.com/5018167/212202171-d66febd2-4ed8-4342-b2a5-59a2930833cb.png"><img style="margin: 0 0 0 5px" height="48" src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Ethereum-ETH-icon.png"/>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=py,js,react,html)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,powershell,bash,stackoverflow)](https://skillicons.dev)
