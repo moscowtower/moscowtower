@@ -14,7 +14,7 @@
 <br>
 <img height="64" width="79" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JiYTFjNzZhMjYxMmFlMjRlN2U2NTNlNmM3ZTQ3Y2NhZTdjYTY4OSZjdD1n/13GIgrGdslD9oQ/giphy.gif"> Managing a small team of talented rascals ready to conquer
 <br>
-<img height="64" width="79" src="https://gifdb.com/images/high/space-laser-cat-xb0iltbqevg3edwk.gif"> Currently focused on front-end frameworks.
+<img height="64" width="79" src="https://gifdb.com/images/high/space-laser-cat-xb0iltbqevg3edwk.gif"> Currently focused on mastering front-end frameworks to match the backend skills.
 
 ----
 
