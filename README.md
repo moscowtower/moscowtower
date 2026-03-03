@@ -20,7 +20,7 @@
 
 
 <div align='left' style='margin: 30 60 40'>
-<i>there's no public repos because my code actually makes money.</i>
+<i>t̡̩͖͙̟h̖͉͔͇̭͢e̗̣͢r̙͇͖̲͜ę̜̲̲̯ͅ'̢͚̝͎̱ͅṣ̰̜͢ ņ̖͔͇̯͔ọ̡͇ p̙̘͜u͈̝̯͈̫͜b̤̝̭͜l̡̮͚i͙͙̬̙͜c̨̩͔ r̢͙͉e̩̖̙̝̦͜p̨͇͖ǫ̖̜̞͉͙ș̜̞͍̩͜ b͉̤̩͎͢ę̩͇c̢̭̯̯͔̦a̡̦̞̙̮ų̟̙̩̠̦s̡̠̜e̢̥̥͈ m̗͎̳͢y̧̩͇̦͕ c͚̣̪͈͜o̡̠̙͙d̢̰̘̦̭e͖͖͜ a̠͖͜c̢̙͈̲ͅt̢͙͇̭u̢̳̳̯̝a̳̰͢l̢̖͙̖̤l̢̩̣͍̟͉y̧̩̫̘͇̳ m͉̠̗͖͢a̠͎̜̟̫͢ķ͔͉ę̞̭̭ş͈͚͓͉ m̨̗̜ọ̢̟ͅn͔͔̱̪̱͜e͇̫̭͔̥͜y̧͉̱͚͍.̧͈̥̩</i>
 </div>
 
 <img src='https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white'><img src='https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white'><img src='https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black'><img src='https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white'>
