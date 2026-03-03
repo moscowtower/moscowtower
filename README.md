@@ -19,7 +19,7 @@
 </div>
 
 
-<div align='left' style='margin: 2rem 5rem 3rem'>
+<div align='left' style='margin: 30 60 40'>
 <i>there's no public repos because my code actually makes money.</i>
 </div>
 
@@ -29,4 +29,4 @@
 <img src='https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white'><img src='https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white'><img src='https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white'><br>
 <img src='https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white'><img src='https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white'><img src='https://img.shields.io/badge/Poetry-60A5FA.svg?style=for-the-badge&logo=Poetry&logoColor=white'><img src='https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white'><br><img src='https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white'><img src='https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white'><img src='https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=AIOHTTP&logoColor=white'><img src='https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black'><img src='https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white'><br><img src='https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white'><img src='https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white'><img src='https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white'><img src='https://img.shields.io/badge/Ethers-2535A0.svg?style=for-the-badge&logo=Ethers&logoColor=white'>
 
-<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmoscowtower&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC"> people stalked this page
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmoscowtower&label=Stalkers+today%2Fall+time&icon=eye&color=%23198754&message=&style=flat&tz=UTC">
