@@ -20,9 +20,9 @@
 
 
 <div align='left' style='margin: 30 60 40'>
+<br>
 <i>t̡̩͖͙̟h̖͉͔͇̭͢e̗̣͢r̙͇͖̲͜ę̜̲̲̯ͅ'̢͚̝͎̱ͅṣ̰̜͢ ņ̖͔͇̯͔ọ̡͇ p̙̘͜u͈̝̯͈̫͜b̤̝̭͜l̡̮͚i͙͙̬̙͜c̨̩͔ r̢͙͉e̩̖̙̝̦͜p̨͇͖ǫ̖̜̞͉͙ș̜̞͍̩͜ b͉̤̩͎͢ę̩͇c̢̭̯̯͔̦a̡̦̞̙̮ų̟̙̩̠̦s̡̠̜e̢̥̥͈ m̗͎̳͢y̧̩͇̦͕ c͚̣̪͈͜o̡̠̙͙d̢̰̘̦̭e͖͖͜ a̠͖͜c̢̙͈̲ͅt̢͙͇̭u̢̳̳̯̝a̳̰͢l̢̖͙̖̤l̢̩̣͍̟͉y̧̩̫̘͇̳ m͉̠̗͖͢a̠͎̜̟̫͢ķ͔͉ę̞̭̭ş͈͚͓͉ m̨̗̜ọ̢̟ͅn͔͔̱̪̱͜e͇̫̭͔̥͜y̧͉̱͚͍.̧͈̥̩</i>
 </div>
-<br>
 <br>
 <br>
 <img src='https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white'><img src='https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white'><img src='https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black'><img src='https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white'>
@@ -30,5 +30,5 @@
 <img src='https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white'><img src='https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white'><img src='https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white'><img src='https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white'><img src='https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white'><img src='https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white'><br>
 <img src='https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white'><img src='https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white'><img src='https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white'><br>
 <img src='https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white'><img src='https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white'><img src='https://img.shields.io/badge/Poetry-60A5FA.svg?style=for-the-badge&logo=Poetry&logoColor=white'><img src='https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white'><br><img src='https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white'><img src='https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white'><img src='https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=AIOHTTP&logoColor=white'><img src='https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black'><img src='https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white'><br><img src='https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white'><img src='https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white'><img src='https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white'><img src='https://img.shields.io/badge/Ethers-2535A0.svg?style=for-the-badge&logo=Ethers&logoColor=white'>
-
+<br>
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmoscowtower&label=Stalkers+today%2Fall+time&icon=eye&color=%23198754&message=&style=flat&tz=UTC">
